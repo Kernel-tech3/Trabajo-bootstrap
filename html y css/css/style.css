@@ -1,0 +1,16 @@
+.hero {
+  background-image: url('https://www.dzoom.org.es/wp-content/uploads/2017/07/seebensee-2384369.jpg'); /* Reemplaza con tu imagen */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; 
+  color: white;
+}
+.hero-overlay {
+  background-color: rgba(0, 0, 0, 0.5); 
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
